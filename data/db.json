@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Introduction to React",
+      "body": "React is a JavaScript library for building user interfaces.",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with Node.js",
+      "body": "Node.js is a runtime that allows you to run JavaScript on the server.",
+      "author": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "title": "CSS Flexbox Layout",
+      "body": "Flexbox is a layout model that makes it easier to design complex layouts.",
+      "author": "Bob Johnson"
+    },
+    {
+      "id": 4,
+      "title": "JavaScript Promises",
+      "body": "Promises are a way to handle asynchronous operations in JavaScript.",
+      "author": "Alice Brown"
+    },
+    {
+      "id": 5,
+      "title": "Python Fundamentals",
+      "body": "Python is a versatile and beginner-friendly programming language.",
+      "author": "Eve Wilson"
+    },
+    {
+      "id": 6,
+      "title": "Database Design with SQL",
+      "body": "SQL is a powerful language for managing and querying databases.",
+      "author": "Charlie Green"
+    },
+    {
+      "title": "Learn React in a Simple way",
+      "body": "ood morning sir,\n\nI am having a little challenge\n\nA Pastor was moved from one Area (Life Abundance) to another area (Arise and Shine) - all approved by principal officers but the phone number of the Pastor is tagged with another Pastors name.\n\nThe pastor's name is George Arueyingho and his phone number (08023077944) is tagged with Pastor Mrs Adeleye Deborah and he is still reflecting in his old Area. \n\nThis Pastor is yet to input remittance. \n\nKindly assist\n\nOgun 30 Admin",
+      "author": "yoshi",
+      "id": 7
+    }
+  ]
+}
